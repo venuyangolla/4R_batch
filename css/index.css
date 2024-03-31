@@ -1,0 +1,30 @@
+html,body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.divContainer{
+    border: 5px solid aqua;
+    width: 75%;
+    height: 50ch;
+    text-align: justify;
+    margin-right: 10px;
+    background-color: black;
+}
+
+#imgContainer{
+    width: 500px;
+    height: 380px;
+    float: left;
+    margin: 10px;
+}
+
+#para1{
+    color: white;
+    display: inline;
+}
+#para2{
+    color: white;
+    display: inline;
+}

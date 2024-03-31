@@ -1,0 +1,58 @@
+/* html,body{
+    display: flex;
+    align-items: center;
+} */
+
+li{
+    list-style-type: none;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+    height: 500px;
+    width: 90%;
+    margin: 5px;
+    position: relative;
+    border-radius: 10px;
+}
+
+section{
+    border: solid;
+    border-color: white; 
+    position: relative;
+}
+a{
+    height: 30%;
+    width: 40%;
+    margin: 100px;
+    display: inline;
+}
+
+footer{
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    
+}
+img{
+    width: 500px;
+    height: 380px;
+    float: left;
+    margin: 10px;
+    text-align: justify;
+}
+
+#para1{
+    display: inline;
+    text-align: justify;
+    background-color:lightseagreen;
+    border-radius: 20px;
+}

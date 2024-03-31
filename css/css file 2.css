@@ -1,0 +1,35 @@
+.body{
+    background-color: aqua;
+}
+.header{
+    text-align: center;
+    color: darkgreen;
+    background-color: darkgray;
+}
+.link{
+    background: none;
+}
+.id{
+    background-color: darkviolet;
+}
+.content{
+    background-color: lawngreen;
+}
+.footer{
+    background-color: deepskyblue;
+    text-align: center;
+}
+.para{
+    font-style: italic;
+    color:olivedrab;
+}
+.name{
+    background-color: lemonchiffon;
+}
+.h3{
+    background-color: indigo;
+    color: aliceblue;
+}
+.clr{
+    color: red;
+}

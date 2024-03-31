@@ -1,0 +1,41 @@
+
+body{
+    background-image: url(./pexels-photo-116675.jpeg);
+   height: 100vh;
+   width: 100vw;
+   background-position: center;
+   background-size: cover;
+}
+
+.container ul{
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+    text-align: left;
+    border: 5px solid lightcoral;
+    background-color: black;
+    color: white;
+    align-items: center;
+    width: 100%;
+
+}
+
+.import{
+    list-style: none;
+    display: block;
+    font-size: 20px;
+    justify-content: space-around;
+    text-justify: inherit;
+    border: 5px solid bisque;
+    background-color: aquamarine;
+    color: black;
+    align-items: center;
+    width: 15%;
+    height: 90%;
+    margin-left: 10px;
+    line-break: 20px;
+    text-align: center;
+
+    
+}

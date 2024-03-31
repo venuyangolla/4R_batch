@@ -1,0 +1,29 @@
+html,body{
+    height: 100%;
+    text-align: center;
+}
+.border1{
+    border-top-style: double;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: dashed;
+    border-color: bisque greenyellow hotpink orchid;
+    background-color: aquamarine;
+}
+.border2{
+   border-style: dashed solid;
+   border-color: red grey;
+   background-color: cornflowerblue;
+}
+.border3{
+   border-style: dotted solid double;
+   border: 5px 10px solid;
+   border-color: blue green teal;
+   background-color: chartreuse;
+}
+.border4{
+    border-style: double dashed;
+    border-top-width: 10px;
+    border-color:black violet lightblue;
+    background-color: darkcyan;
+} 

@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    background-color: orange;
+}
+.section{
+    font-size: 15px;
+    color: blue;
+
+}
+.paragraph{
+    font-style: italic;
+}
+.footer{
+    text-align: center;
+    color: black;
+    background-color: blueviolet;
+}
